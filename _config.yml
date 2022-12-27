@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 伊比利亚之眼
+subtitle: '无人知道这座灯塔为何能在灾难之中幸存，或许只是因为，再恐怖的风浪都无法阻挡人们投向海洋的视线。'
+description: '无人知道这座灯塔为何能在灾难之中幸存，或许只是因为，再恐怖的风浪都无法阻挡人们投向海洋的视线。伊比利亚的眼睛不会闭合，伊比利亚的眼睛只是暂时被阴霾遮挡。'
 keywords:
-author: John Doe
-language: en
+author: 文无第一章会之
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://huichihchang.github.io/
+permalink: read/:id.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
